@@ -10,16 +10,17 @@ Pretty-code, as it has also been called, is a fundamental architectural discipli
 
 By maintaining rigorous and clean formatting, teams benefit from these key operational advantages.
 
- - **Streamlined Documentation and Metadata**. Formal formatting creates predictable, clean structural boundaries, making it significantly easier to attach formalized inline documentation (such as JSDoc, XML comments, or Docstrings) that maps cleanly to the language's native meta-information properties and reflection APIs.
+<ul><li><b>Streamlined Documentation and Metadata</b>. Formal formatting creates predictable, clean structural boundaries, making it significantly easier to attach formalized inline documentation (such as JSDoc, XML comments, or Docstrings) that maps cleanly to the language's native meta-information properties and reflection APIs.<br /><br /></li>
 
- - **Accelerated Feature Scanning**. Consistent indentation, strategic whitespace, and visual hierarchies allow engineers to skim thousands of lines of code and pinpoint target components instantly.
+<li><b>Accelerated Feature Scanning</b>. Consistent indentation, strategic whitespace, and visual hierarchies allow engineers to skim thousands of lines of code and pinpoint target components instantly.<br /><br /></li>
 
- - **Intuitive Modular Organization**. Proper formatting naturally clusters code into distinct, logical snippets, making it obvious where one operational responsibility ends and the next begins.
+<li><b>Intuitive Modular Organization</b>. Proper formatting naturally clusters code into distinct, logical snippets, making it obvious where one operational responsibility ends and the next begins.<br /><br /></li>
 
- - **Low-Friction Troubleshooting**. When a codebase follows predictable formatting patterns, anomalies, broken syntax loops, and logic flaws stand out immediately rather than hiding in visual clutter.
+<li><b>Low-Friction Troubleshooting</b>. When a codebase follows predictable formatting patterns, anomalies, broken syntax loops, and logic flaws stand out immediately rather than hiding in visual clutter.<br /><br /></li>
 
- - **Seamless Collaboration and Onboarding**. Clean formatting democratizes code comprehension, ensuring that engineers of varying familiarity levels can confidently audit, review, and extend the system without getting bogged down by stylistic noise.
-Ultimately, we format code for the human engineer who must read, debug, and maintain it tomorrow. Investing in mechanical readability directly minimizes technical debt and maximizes authoring velocity across the entire engineering lifecycle.
+<li><b>Seamless Collaboration and Onboarding</b>. Clean formatting democratizes code comprehension, ensuring that engineers of varying familiarity levels can confidently audit, review, and extend the system without getting bogged down by stylistic noise.
+Ultimately, we format code for the human engineer who must read, debug, and maintain it tomorrow. Investing in mechanical readability directly minimizes technical debt and maximizes authoring velocity across the entire engineering lifecycle.<br /><br /></li>
+</ul>
 
 ## General Usage
 Use this tool to write more than 2,000 lines of 100% consistent code per day. It opens as a single, local HTML/JavaScript file for maximum portability on Linux and Windows.
@@ -28,9 +29,11 @@ Use this tool to write more than 2,000 lines of 100% consistent code per day. It
 
 Follow these steps to create a block of code.
 
- - Select a type of block to create from the **Action** drop-down list.
- - Enter appropriate values in the fields.
- - When the code block matches the needed output, click the code block to copy it to the clipboard.
- - Paste the copied code to your code editor.
+<ul><li>Select a type of block to create from the <b>Action</b> drop-down list.</li>
+<li>Enter appropriate values in the fields.</li>
+<li>When the code block matches the needed output, click the code block to copy it to the clipboard.</li>
+<li>Paste the copied code to your code editor.</li>
+</ul>
+
 
 
