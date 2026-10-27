@@ -10,15 +10,15 @@ Pretty-code, as it has also been called, is a fundamental architectural discipli
 
 By maintaining rigorous and clean formatting, teams benefit from these key operational advantages.
 
- - **Streamlined Documentation and Metadata**. Formal formatting creates predictable, clean structural boundaries, making it significantly easier to attach formalized inline documentation (such as JSDoc, XML comments, or Docstrings) that maps cleanly to the language's native meta-information properties and reflection APIs.
+- **Streamlined Documentation and Metadata**. Formal formatting creates predictable, clean structural boundaries, making it significantly easier to attach formalized inline documentation (such as JSDoc, XML comments, or Docstrings) that maps cleanly to the language's native meta-information properties and reflection APIs.
 
- - **Accelerated Feature Scanning**. Consistent indentation, strategic whitespace, and visual hierarchies allow engineers to skim thousands of lines of code and pinpoint target components instantly.
+- **Accelerated Feature Scanning**. Consistent indentation, strategic whitespace, and visual hierarchies allow engineers to skim thousands of lines of code and pinpoint target components instantly.
 
- - **Intuitive Modular Organization**. Proper formatting naturally clusters code into distinct, logical snippets, making it obvious where one operational responsibility ends and the next begins.
+- **Intuitive Modular Organization**. Proper formatting naturally clusters code into distinct, logical snippets, making it obvious where one operational responsibility ends and the next begins.
 
- - **Low-Friction Troubleshooting**. When a codebase follows predictable formatting patterns, anomalies, broken syntax loops, and logic flaws stand out immediately rather than hiding in visual clutter.
+- **Low-Friction Troubleshooting**. When a codebase follows predictable formatting patterns, anomalies, broken syntax loops, and logic flaws stand out immediately rather than hiding in visual clutter.
 
- - **Seamless Collaboration and Onboarding**. Clean formatting democratizes code comprehension, ensuring that engineers of varying familiarity levels can confidently audit, review, and extend the system without getting bogged down by stylistic noise.
+- **Seamless Collaboration and Onboarding**. Clean formatting democratizes code comprehension, ensuring that engineers of varying familiarity levels can confidently audit, review, and extend the system without getting bogged down by stylistic noise.
 Ultimately, we format code for the human engineer who must read, debug, and maintain it tomorrow. Investing in mechanical readability directly minimizes technical debt and maximizes authoring velocity across the entire engineering lifecycle.
 
 ## General Usage
